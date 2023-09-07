@@ -1,10 +1,7 @@
 ![MasterHead](https://github.com/thore-dahl/thore-dahl/assets/130995551/8ab2eebe-86f3-4422-a831-080befd0044e)
 <h1 align="center" style="color:blue">Hello there! I am Thore Dahl</h1>
 <h3 align="center">A graduate student in data science at Kiel University of Applied Science</h3>
-<br>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjY0dm9pwbwOWg5ODRxeHppNDNub3R0MzYzMGZ3ZGZjbWdtYjhoMGMxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-
-> "Hard work beats talent that doesn't work hard" - Kevin Durant
 
 <br>
 
@@ -13,12 +10,11 @@
 
 <br><br>
 
+## 💫 Connect with Me:  
+<img align="center" src="https://github.com/thore-dahl/thore-dahl/assets/130995551/9ed58804-0624-4d86-a4f1-a8b21d1a9ad5" alt="thore.dahl" height="30" width="40" /> **thore.dahl@proton.me**
+<br><br>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thore-dahl" height="30" width="40" /> <a href="https://linkedin.com/in/thore-dahl">thore-dahl</a>
+
 <a href="https://github.com/thore-dahl/Coursework">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=thore-dahl&repo=Coursework&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=003140"/>
 </a>
-
-## 💫 Connect with Me:
-<p align="left">
-<a href="https://linkedin.com/in/thore-dahl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thore-dahl" height="30" width="40" /></a>
-<a href="mailto:thore.dahl@proton.me" target="blank"><img align="center" src="https://github.com/thore-dahl/thore-dahl/assets/130995551/9ed58804-0624-4d86-a4f1-a8b21d1a9ad5" alt="thore.dahl" height="30" width="40" /></a>
-</p>
