@@ -11,10 +11,11 @@
 <br><br>
 
 ## 💫 Connect with Me:  
-<img align="center" src="https://github.com/thore-dahl/thore-dahl/assets/130995551/9ed58804-0624-4d86-a4f1-a8b21d1a9ad5" alt="thore.dahl" height="30" width="40" /> **thore.dahl@proton.me**
-<br><br>
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thore-dahl" height="30" width="40" /> <a href="https://linkedin.com/in/thore-dahl">thore-dahl</a>
-
 <a href="https://github.com/thore-dahl/Coursework">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=thore-dahl&repo=Coursework&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=003140"/>
-</a>
+<img align="center" src="https://github.com/thore-dahl/thore-dahl/assets/130995551/9ed58804-0624-4d86-a4f1-a8b21d1a9ad5" alt="thore.dahl" height="30" width="40" /><a href="mailto:thore.dahl@proton.me">thore.dahl@proton.me</a>
+<br><br>
+  <div style="display: inline-block;">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thore-dahl" height="30" width="40" />
+  <a href="https://linkedin.com/in/thore-dahl">thore-dahl</a>
+</div>
