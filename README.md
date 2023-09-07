@@ -1,6 +1,7 @@
-<h1 align="center">Hello there! I am Thore Dahl</h1>
+![MasterHead](https://github.com/thore-dahl/thore-dahl/assets/130995551/18c0e1c9-079e-4d81-aa55-2b004a05c47a)
+<h1 align="center" style="color:blue">Hello there! I am Thore Dahl</h1>
 <h3 align="center">A graduate student in data science at Kiel University of Applied Science</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjY0dm9wOWg5ODRxeHppNDNub3R0MzYzMGZ3ZGZjbWdtYjhoMGMxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 📫 How to reach me **thore.dahl@proton.me**
 
