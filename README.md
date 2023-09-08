@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/thore-dahl/thore-dahl/assets/130995551/8ab2eebe-86f3-4422-a831-080befd0044e)
 <h1></h1>
 <h3 align="center">Hello there! I am Thore Dahl</h3>
-<em><p align="center">A graduate student in data science at Kiel University of Applied Science</p></em>
+<p align="center">a graduate student in data science at Kiel University of Applied Science</p>
 <h1></h1>
 <img align="right" alt="Coding" width="425" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjY0dm9pwbwOWg5ODRxeHppNDNub3R0MzYzMGZ3ZGZjbWdtYjhoMGMxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 <a href="https://github.com/thore-dahl/Coursework">
