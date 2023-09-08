@@ -1,9 +1,9 @@
 ![MasterHead](https://github.com/thore-dahl/thore-dahl/assets/130995551/8ab2eebe-86f3-4422-a831-080befd0044e)
 <h1 align="center" style="color:blue">Hello there! I am Thore Dahl</h1>
 <h3 align="center">A graduate student in data science at Kiel University of Applied Science</h3>
-<img align="right" alt="Coding" width="450" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjY0dm9pwbwOWg5ODRxeHppNDNub3R0MzYzMGZ3ZGZjbWdtYjhoMGMxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="425" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjY0dm9pwbwOWg5ODRxeHppNDNub3R0MzYzMGZ3ZGZjbWdtYjhoMGMxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 <a href="https://github.com/thore-dahl/Coursework">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=thore-dahl&repo=Coursework&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=003140&border_radius=0" style="width: 451px;"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=thore-dahl&repo=Coursework&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=003140&border_radius=0" style="width: 426px;"/>
 </a>
 <br><br>
 <p align="left"> 
