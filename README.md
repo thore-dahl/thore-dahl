@@ -1,21 +1,77 @@
 ![MasterHead](https://github.com/thore-dahl/thore-dahl/assets/130995551/8ab2eebe-86f3-4422-a831-080befd0044e)
 <h1 align="center" style="color:blue">Hello there! I am Thore Dahl</h1>
 <h3 align="center">A graduate student in data science at Kiel University of Applied Science</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjY0dm9pwbwOWg5ODRxeHppNDNub3R0MzYzMGZ3ZGZjbWdtYjhoMGMxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-
-<br>
-
-## 💻 Tech Stack:
-![Azure](https://img.shields.io/badge/azure-003140?style=for-the-badge&logo=azure-devops&logoColor=ffffff) ![GIT](https://img.shields.io/badge/Git-003140?style=for-the-badge&logo=git&logoColor=ffffff) ![LaTeX](https://img.shields.io/badge/latex-003140?style=for-the-badge&logo=latex&logoColor=ffffff) ![MySQL](https://img.shields.io/badge/mysql-003140?style=for-the-badge&logo=mysql&logoColor=ffffff) ![NumPy](https://img.shields.io/badge/numpy-003140?style=for-the-badge&logo=numpy&logoColor=ffffff)![Pandas](https://img.shields.io/badge/pandas-003140?style=for-the-badge&logo=pandas&logoColor=ffffff) ![Python](https://img.shields.io/badge/python-003140?style=for-the-badge&logo=python&logoColor=ffffff) ![R](https://img.shields.io/badge/r-003140?style=for-the-badge&logo=r&logoColor=ffffff) ![Ruby](https://img.shields.io/badge/ruby-003140?style=for-the-badge&logo=ruby&logoColor=ffffff)   ![scikit-learn](https://img.shields.io/badge/scikit--learn-003140?style=for-the-badge&logo=scikit-learn&logoColor=ffffff) ![SciPy](https://img.shields.io/badge/SciPy-003140?style=for-the-badge&logo=scipy&logoColor=ffffff) 
-
+<img align="right" alt="Coding" width="497" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjY0dm9pwbwOWg5ODRxeHppNDNub3R0MzYzMGZ3ZGZjbWdtYjhoMGMxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<a href="https://github.com/thore-dahl/Coursework">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=thore-dahl&repo=Coursework&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=003140&border_radius=0" style="width: 498px;"/>
+</a>
 <br><br>
+<p align="left"> 
+  <h2>💻 Programming Languages and Tools</h2>
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>
+  <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" alt="r" width="40" height="40"/> 
+  </a>
+  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> 
+  </a>
+</p>
+<br>
+<p align="left"> 
+  <h2>📚 Python Libraries</h2>
+  <a href="https://altair-viz.github.io" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/22396732?s=200&v=4" alt="altair" width="40" height="40"/> 
+  </a>
+  <a href="https://matplotlib.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/valohai/ml-logos/d8dfb916e50a93a41f3b1ed2ca7bd3dbc77030a2/matplotlib.svg" alt="matplotlib" width="40" height="40"/> 
+  </a>
+  <a href="https://www.nltk.org" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/thore-dahl/thore-dahl/assets/130995551/3eca14bd-4577-4637-9df6-55fbb2172e86" alt="nltk" width="40" height="40"/> 
+  </a>
+  <a href="https://numpy.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/> 
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+  </a>
+  <a href="https://scipy.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/valohai/ml-logos/d8dfb916e50a93a41f3b1ed2ca7bd3dbc77030a2/scipy.svg" alt="scipy" width="40" height="40"/> 
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+  </a>
+</p>
+<br>
+<p align="left"> 
+  <h2>💫 Connect with Me</h2>
+  <a href="https://linkedin.com/in/thore-dahl" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40"/>
+  </a>
+  <a href="mailto:thore.dahl@protonmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/981a47601ec59564a550dcf72bf87ed4b7101780/icons/proton.svg" alt="proton" height="40" width="40" />
+  </a>
+
+</p>
+
 
 ## 💫 Connect with Me:  
-<a href="https://github.com/thore-dahl/Coursework">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=thore-dahl&repo=Coursework&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=003140"/>
 <img align="center" src="https://github.com/thore-dahl/thore-dahl/assets/130995551/9ed58804-0624-4d86-a4f1-a8b21d1a9ad5" alt="thore.dahl" height="30" width="40" /><a href="mailto:thore.dahl@proton.me">thore.dahl@proton.me</a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thore-dahl" height="30" width="40" /><a href="https://linkedin.com/in/thore-dahl">thore-dahl</a>
 <br><br>
-  <div style="display: inline-block;">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thore-dahl" height="30" width="40" />
-  <a href="https://linkedin.com/in/thore-dahl">thore-dahl</a>
 </div>
+
+
+  
+
+  
