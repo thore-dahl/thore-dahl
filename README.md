@@ -3,7 +3,7 @@
 <h3 align="center">Hello there! I am Thore Dahl</h3>
 <p align="center">a graduate student in data science at Kiel University of Applied Science</p>
 <h1></h1>
-<img align="right" alt="Coding" width="425" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjY0dm9pwbwOWg5ODRxeHppNDNub3R0MzYzMGZ3ZGZjbWdtYjhoMGMxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="425" src="https://github.com/thore-dahl/thore-dahl/assets/130995551/a74425dd-f4a2-4e91-8dd6-97fdfa8984b2">
 <a href="https://github.com/thore-dahl/Coursework">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=thore-dahl&repo=Coursework&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=003140&border_radius=0" style="width: 426px;"/>
 </a>
