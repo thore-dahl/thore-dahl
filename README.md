@@ -63,7 +63,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
     </a>
     <a href="https://spacy.io/" target="_blank" rel="noreferrer"> 
-      <img src="https://github.com/thore-dahl/thore-dahl/assets/130995551/b9881aa4-0157-491d-bb1d-b5b923c540e4" alt="spacy" height="20"/> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/1280px-SpaCy_logo.svg.png" alt="spacy" height="20"/> 
     </a>
   </div>
 </p>
