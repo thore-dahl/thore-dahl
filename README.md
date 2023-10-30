@@ -41,6 +41,9 @@
     <a href="https://matplotlib.org" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/valohai/ml-logos/d8dfb916e50a93a41f3b1ed2ca7bd3dbc77030a2/matplotlib.svg" alt="matplotlib" width="40" height="40"/> 
     </a>
+    <a href="https://networkx.org/" target="_blank" rel="noreferrer"> 
+      <img src="https://github.com/thore-dahl/thore-dahl/assets/130995551/e5e4e3af-133f-411b-b9e6-d962ac64ca1e" alt="networkx" width="40" height="40"/> 
+    </a>
     <a href="https://www.nltk.org" target="_blank" rel="noreferrer"> 
       <img src="https://github.com/thore-dahl/thore-dahl/assets/130995551/3eca14bd-4577-4637-9df6-55fbb2172e86" alt="nltk" width="40" height="40"/> 
     </a>
@@ -50,11 +53,17 @@
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
     </a>
+    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+    </a>
     <a href="https://scipy.org" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/valohai/ml-logos/d8dfb916e50a93a41f3b1ed2ca7bd3dbc77030a2/scipy.svg" alt="scipy" width="40" height="40"/> 
     </a>
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+    </a>
+    <a href="https://spacy.io/" target="_blank" rel="noreferrer"> 
+      <img src="https://github.com/thore-dahl/thore-dahl/assets/130995551/b9881aa4-0157-491d-bb1d-b5b923c540e4" alt="spacy" height="20"/> 
     </a>
   </div>
 </p>
