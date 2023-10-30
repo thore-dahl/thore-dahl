@@ -45,7 +45,7 @@
       <img src="https://github.com/thore-dahl/thore-dahl/assets/130995551/e5e4e3af-133f-411b-b9e6-d962ac64ca1e" alt="networkx" width="40" height="40"/> 
     </a>
     <a href="https://www.nltk.org" target="_blank" rel="noreferrer"> 
-      <img src="https://github.com/thore-dahl/thore-dahl/assets/130995551/3eca14bd-4577-4637-9df6-55fbb2172e86" alt="nltk" width="40" height="40"/> 
+      <img src="https://camo.githubusercontent.com/5e9b376c4bac39a9922df91f37b49779b3dbda300453d27d6a66e895fc036675/68747470733a2f2f676c6f62616c2d75706c6f6164732e776562666c6f772e636f6d2f3564336563333531623165626134333332643231333030342f3565633634356363643064356666336461333365633732365f707974686f6e5f6e6c746b2e706e67" alt="nltk" width="40" height="40"/> 
     </a>
     <a href="https://numpy.org" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/> 
