@@ -5,7 +5,7 @@
 <h1></h1>
 <img align="right" alt="Coding" width="425" src="https://github.com/thore-dahl/thore-dahl/assets/130995551/a74425dd-f4a2-4e91-8dd6-97fdfa8984b2">
 <a href="https://github.com/thore-dahl/Coursework">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=thore-dahl&repo=Coursework&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=003140&border_radius=0" style="width: 426px;"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=thore-dahl&repo=Coursework&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=003140&border_color=003140&border_radius=0" style="width: 426px;"/>
 </a>
 <br>
 <p align="left"> 
