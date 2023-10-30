@@ -9,16 +9,25 @@
 </a>
 <br>
 <p align="left"> 
-  <h2>💻 Programming Languages and Tools</h2>
+  <h2>💻 Languages and Tools</h2>
   <div style="display: inline-block;">
-    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+    <a href="https://studio.azureml.net/" target="_blank" rel="noreferrer">
+      <img src="https://ms-toolsai.gallerycdn.vsassets.io/extensions/ms-toolsai/vscode-ai/0.38.0/1698279099280/Microsoft.VisualStudio.Services.Icons.Default" alt="azure_ml_studio" width="40" height="40"/>
     </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  
     </a> 
+    <a href="https://www.influxdata.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://www.vectorlogo.zone/logos/influxdata/influxdata-icon.svg" alt="influxdb" width="40" height="40"/>  
+    </a> 
+    <a href="https://www.mongodb.com/de-de" target="_blank" rel="noreferrer"> 
+      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mysql" width="40" height="40"/> 
+    </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+    </a>
+    <a href="https://powerbi.microsoft.com/de-de/" target="_blank" rel="noreferrer"> 
+      <img src="https://upload.vectorlogo.zone/logos/microsoft_powerbi/images/985205ac-fb3d-4c80-97f4-7bc0fec8c67d.svg" alt="power_bi" width="40" height="40"/> 
     </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -28,6 +37,12 @@
     </a>
     <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> 
+    </a>
+    <a href="_blank" target="_blank" rel="noreferrer"> 
+      <img src="https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/Azure-SQL-Database-Monitoring.component.complex-narrative-xl.ts=1692275228225.png/content/adobe-cms/de/de/products/instana/supported-technologies/azure-sql-database-monitoring/_jcr_content/root/table_of_contents/body/content_section_styled/content-section-body/complex_narrative/logoimage" alt="sql" height="40"/> 
+    </a>
+    <a href="https://www.tableau.com/de-de" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tableau-icon.svg" alt="tableau" width="40" height="40"/> 
     </a>
   </div>
 </p>
