@@ -7,7 +7,6 @@
 <a href="https://github.com/thore-dahl/Coursework">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=thore-dahl&repo=Coursework&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=003140&border_color=003140&border_radius=0" style="width: 426px;"/>
 </a>
-<br>
 <p align="left"> 
   <h2>🛠️ Tools</h2>
   <div style="display: inline-block;">
