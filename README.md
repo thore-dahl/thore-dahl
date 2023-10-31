@@ -39,7 +39,7 @@
     <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" alt="r" height="40"/> 
     </a>
-    <a href="_blank" target="_blank" rel="noreferrer"> 
+    <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> 
       <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" height="40"/> 
     </a>
   </div>
