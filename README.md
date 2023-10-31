@@ -11,7 +11,7 @@
   <h2>🛠️ Tools</h2>
   <div style="display: inline-block;">
     <a href="https://studio.azureml.net/" target="_blank" rel="noreferrer">
-      <img src="https://ms-toolsai.gallerycdn.vsassets.io/extensions/ms-toolsai/vscode-ai/0.38.0/1698279099280/Microsoft.VisualStudio.Services.Icons.Default" alt="azure_ml_studio" height="40"/>
+      <img src="https://ms-toolsai.gallerycdn.vsassets.io/extensions/ms-toolsai/vscode-ai/0.38.0/1698279099280/Microsoft.VisualStudio.Services.Icons.Default" alt="microsoft_ml_studio" height="40"/>
     </a> 
     <a href="https://www.influxdata.com/" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/influxdata/influxdata-icon.svg" alt="influxdb" height="40"/>  
