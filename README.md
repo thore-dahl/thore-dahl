@@ -71,10 +71,10 @@
   <h2>💫 Connect with Me</h2>
   <div style="display: inline-block;">
     <a href="https://linkedin.com/in/thore-dahl" target="_blank">
-      <img src="https://raw.githubusercontent.com/uditkumar489/Icon-pack/44e9bfd92c879c063dadb83851aef6b347ea0ce8/Social%20media/Die%20cut%20-%20transparent/svg/027-linkedin.svg" height="40" width="40"/>
+      <img src="https://raw.githubusercontent.com/uditkumar489/Icon-pack/44e9bfd92c879c063dadb83851aef6b347ea0ce8/Social%20media/Die%20cut%20-%20transparent/svg/027-linkedin.svg" height="40"/>
     </a>
     <a href="mailto:thore.dahl@protonmail.com" target="_blank">
-      <img src="https://github.com/thore-dahl/thore-dahl/assets/130995551/1ebebe54-6dec-4929-a946-0a3af614b9ee" alt="proton" height="40" width="40"/>
+      <img src="https://www.svgrepo.com/show/424914/proton-logo-privacy.svg" alt="proton" height="40"/>
     </a>
   </div>
 </p>
