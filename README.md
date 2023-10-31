@@ -9,7 +9,7 @@
 </a>
 <br>
 <p align="left"> 
-  <h2>💻 Languages and Tools</h2>
+  <h2>🛠️ Tools</h2>
   <div style="display: inline-block;">
     <a href="https://studio.azureml.net/" target="_blank" rel="noreferrer">
       <img src="https://ms-toolsai.gallerycdn.vsassets.io/extensions/ms-toolsai/vscode-ai/0.38.0/1698279099280/Microsoft.VisualStudio.Services.Icons.Default" alt="azure_ml_studio" height="40"/>
@@ -26,6 +26,14 @@
     <a href="https://powerbi.microsoft.com/de-de/" target="_blank" rel="noreferrer"> 
       <img src="https://upload.vectorlogo.zone/logos/microsoft_powerbi/images/985205ac-fb3d-4c80-97f4-7bc0fec8c67d.svg" alt="power_bi" height="40"/> 
     </a>
+    <a href="https://www.tableau.com/de-de" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tableau-icon.svg" alt="tableau" height="40"/> 
+    </a>
+  </div>
+</p>
+<p align="left"> 
+  <h2>💻 Languages</h2>
+  <div style="display: inline-block;">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40"/> 
     </a>
@@ -34,9 +42,6 @@
     </a>
     <a href="_blank" target="_blank" rel="noreferrer"> 
       <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" height="40"/> 
-    </a>
-    <a href="https://www.tableau.com/de-de" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tableau-icon.svg" alt="tableau" height="40"/> 
     </a>
   </div>
 </p>
