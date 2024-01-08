@@ -47,17 +47,32 @@
 <p align="left"> 
   <h2>📚 ML Libraries</h2>
   <div style="display: inline-block;">
+    <a href="https://altair-viz.github.io" target="_blank" rel="noreferrer"> 
+      <img src="https://avatars.githubusercontent.com/u/22396732?s=200&v=4" alt="altair" width="40" height="40"/> 
+    </a>
+    <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"> 
+      <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
+    </a>
     <a href="https://huggingface.co/docs/transformers/index" target="_blank" rel="noreferrer">
       <img src="https://workable-application-form.s3.amazonaws.com/advanced/production/61557f91d9510741dc62e7f8/c3635b59-a3d2-444a-b636-a9d0061dcdde" alt="hugging_face" width="40" height="40"/> 
     </a>
     <a href="https://radimrehurek.com/gensim/" target="_blank" rel="noreferrer"> 
       <img src="https://media.slid.es/uploads/465821/images/5836629/pasted-from-clipboard.png" alt="gensim" width="40" height="40"/> 
     </a>
+    <a href="https://matplotlib.org" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/valohai/ml-logos/d8dfb916e50a93a41f3b1ed2ca7bd3dbc77030a2/matplotlib.svg" alt="matplotlib" width="40" height="40"/> 
+    </a>
     <a href="https://networkx.org/" target="_blank" rel="noreferrer"> 
       <img src="https://avatars.githubusercontent.com/u/388785?s=200&v=4" alt="networkx" height="40"/> 
     </a>
     <a href="https://www.nltk.org" target="_blank" rel="noreferrer"> 
       <img src="https://miro.medium.com/v2/resize:fit:592/1*YM2HXc7f4v02pZBEO8h-qw.png" alt="nltk" height="40"/> 
+    </a>
+    <a href="https://numpy.org" target="_blank" rel="noreferrer"> 
+      <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/> 
+    </a>
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
     </a>
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" height="40"/> 
