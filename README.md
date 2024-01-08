@@ -47,6 +47,12 @@
 <p align="left"> 
   <h2>📚 ML Libraries</h2>
   <div style="display: inline-block;">
+    <a href="https://huggingface.co/docs/transformers/index" target="_blank" rel="noreferrer">
+      <img src="https://workable-application-form.s3.amazonaws.com/advanced/production/61557f91d9510741dc62e7f8/c3635b59-a3d2-444a-b636-a9d0061dcdde" alt="hugging_face" width="40" height="40"/> 
+    </a>
+    <a href="https://radimrehurek.com/gensim/" target="_blank" rel="noreferrer"> 
+      <img src="https://media.slid.es/uploads/465821/images/5836629/pasted-from-clipboard.png" alt="gensim" width="40" height="40"/> 
+    </a>
     <a href="https://networkx.org/" target="_blank" rel="noreferrer"> 
       <img src="https://avatars.githubusercontent.com/u/388785?s=200&v=4" alt="networkx" height="40"/> 
     </a>
@@ -64,6 +70,12 @@
     </a>
     <a href="https://spacy.io/" target="_blank" rel="noreferrer"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/1280px-SpaCy_logo.svg.png" alt="spacy" height="20"/> 
+    </a>
+    <a href="https://skorch.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> 
+      <img src="https://avatars.githubusercontent.com/u/47992320?s=280&v=4" alt="skorch" width="40" height="40"/>
+    </a>
+    <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
     </a>
   </div>
 </p>
